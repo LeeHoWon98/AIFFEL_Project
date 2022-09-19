@@ -1,2 +1,2 @@
 # AIFFEL_Project
-* _project_
+* project
