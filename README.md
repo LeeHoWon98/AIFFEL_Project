@@ -1,7 +1,7 @@
 # AIFFEL_Project
 
 - AIFFEL 기간 동안 진행한 17개의 미니 프로젝트 기록장
-- 프로젝트를 만점으로 통과했습니다.
+- 프로젝트를 만점으로 통과
 
 |Project_Name|Skill|Link|Result|
 |---|---|---|---|
